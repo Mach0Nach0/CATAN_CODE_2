@@ -23,11 +23,14 @@ value to limit how far packets propagate.
 
 ## Pictures
 
-![Breadboard prototype wiring (Master tile and 2 normal tiles)](images/.jpg)
-![Unsoldered custom PCBs](images/.jpg)
-![PCB housing](images/.jpg)
-![Tile to tile physical connection](images/.jpg)
-![House and road prototypes](images/.jpg)
+![Breadboard prototype wiring (Master tile and 2 normal tiles)](images/20261016_061911613_iOS.dng)
+![Unsoldered custom PCBs](images/20261016_062016487_iOS.dng)
+![PCB housing](images/20261016_062154518_iOS.dng)
+![PCB housing with lid](images/20261016_062215070_iOS.dng)
+![Tile to tile physical connection](images/20261016_062943588_iOS.dng)
+![Tile to tile connectro PCB with 3D-printed housing](images/20261016_063025439_iOS.dng)
+![House and road slots](images/20261016_063156741_iOS.dng)
+![House and road insert prototypes](images/20261016_063151595_iOS.dng)
 
 ## Features
 
